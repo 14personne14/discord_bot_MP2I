@@ -1,0 +1,6 @@
+venv/
+.vscode/
+.idea/
+desktop.ini
+.env
+*.log
