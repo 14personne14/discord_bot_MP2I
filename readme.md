@@ -19,7 +19,7 @@ Il utilise la bibliothèque discord.py pour interagir avec l'API Discord.
 
 Pour utiliser le bot, invitez-le sur votre serveur Discord. Les utilisateurs peuvent créer des rôles en envoyant un message privé au bot.
 
-## Copyright 2024 @personne14.
+## Copyright @personne14.
 
 Tous droits réservés.
 
